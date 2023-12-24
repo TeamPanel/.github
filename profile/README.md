@@ -7,4 +7,4 @@ That's cool! If you want us to know about your idea and how we could solve a spe
 
 <br />
 
-#### Try it now and start for free under [team-panel.com](https://team-panel.com/).
+> #### Try it now and start for free under [team-panel.com](https://team-panel.com/).
